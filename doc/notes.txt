@@ -1,0 +1,7 @@
+Hardware:
+
+MC68008 or TS68008
+512KB SRAM
+64 KB ROM (Winbond W27C512)
+GAL22V10 for glue logic
+MC68901 Multi Function Peripheral (UART, timers, port I/O)
